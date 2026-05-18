@@ -1,0 +1,8 @@
+dbt_env/
+dbt-dag/logs/
+dbt-dag/airflow_settings.yaml
+data_pipeline/target/
+data_pipeline/dbt_packages/
+data_pipeline/logs/
+*.pyc
+__pycache__/
